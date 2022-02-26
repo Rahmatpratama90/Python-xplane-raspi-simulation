@@ -1,6 +1,6 @@
 # Python-xplane-raspi-simulation (Intern project)
 
-<p align="center">
+<p align="left">
   <img width="400" height="400" src="https://user-images.githubusercontent.com/47783115/148063873-2e4a121f-655f-4c30-83d9-10f91617c1c2.png">
 </p>
 
