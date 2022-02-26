@@ -7,10 +7,10 @@
 
 # I. Getting Started
 * This Repository Contains Python-Raspi-Xplane Program for Rocket and Plane Take off and Landing Simulation 
-* 
+
 # II. Prerequisite
 
-Software :
+Softwares :
 
 * [Ubuntu 18.04](ubuntu.org)
 * [Python](Python.org)
