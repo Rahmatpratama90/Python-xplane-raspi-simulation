@@ -5,10 +5,6 @@
   <img width="400" height="400" src="https://user-images.githubusercontent.com/47783115/148063943-c0bcc12e-4414-4686-a4b4-f97af2fd87aa.png">
 </p>
 
-<p align="right">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/47783115/148063943-c0bcc12e-4414-4686-a4b4-f97af2fd87aa.png">
-</p>
-
 # I. Getting Started
 * This Repository Contains Python-Raspi-Xplane Program for Rocket and Plane Take off and Landing Simulation 
 * 
