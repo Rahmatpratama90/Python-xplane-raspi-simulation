@@ -1,7 +1,7 @@
 # Python-xplane-raspi-simulation (Intern project)
 
 <p align="center">
-  <img width="400" height="400" src="(https://user-images.githubusercontent.com/47783115/148063873-2e4a121f-655f-4c30-83d9-10f91617c1c2.png">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/47783115/148063873-2e4a121f-655f-4c30-83d9-10f91617c1c2.png">
 </p>
 
 <p align="center">
@@ -17,6 +17,6 @@ Software :
 
 * [Ubuntu 18.04](ubuntu.org)
 * [Python](Python.org)
-* [XPC](xpc.com)
-* [X-Plane](Xplane.com)
+* [XPC](https://github.com/nasa/XPlaneConnect)
+* [X-Plane](https://www.x-plane.com/)
 
